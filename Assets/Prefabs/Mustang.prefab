@@ -372,17 +372,17 @@ MonoBehaviour:
   RPMRange: {x: 0, y: 800}
   currentRPM: 0
   engineSlowdown: 2
-  horsepower: 2
+  horsepower: 6
   engineLoad:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  topSpeedByGear: 1f000000380000005300000073000000a4000000
+  topSpeedByGear: 1400000028000000460000006e000000a0000000
   currentGear: 1
   mainEngineSound: {fileID: 266275328}
-  pitchRange: {x: 0.4, y: 5}
+  pitchRange: {x: 0.5, y: 4}
 --- !u!82 &266275328
 AudioSource:
   m_ObjectHideFlags: 0

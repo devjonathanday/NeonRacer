@@ -1216,6 +1216,96 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mustang
       objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[0].inSlope
+      value: -0.0089770695
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[0].outSlope
+      value: -0.0089770695
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[0].tangentMode
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[1].time
+      value: 101.36675
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[1].value
+      value: 0.09002367
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[1].inSlope
+      value: -0.0039090747
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[1].outSlope
+      value: -0.0039090747
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[1].tangentMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[0].outWeight
+      value: 0.33333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[1].inWeight
+      value: 0.33333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[1].outWeight
+      value: 0.18022873
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[2].time
+      value: 160
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[2].inSlope
+      value: -0.0012742082
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[2].outSlope
+      value: -0.0012742082
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[2].tangentMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393819610393244884, guid: 995c08a564c4a0a41907a7ab1106f72f,
+        type: 3}
+      propertyPath: engineLoad.m_Curve.Array.data[2].inWeight
+      value: 0.18217143
+      objectReference: {fileID: 0}
     - target: {fileID: 5495185851148445517, guid: 995c08a564c4a0a41907a7ab1106f72f,
         type: 3}
       propertyPath: m_LocalPosition.x
