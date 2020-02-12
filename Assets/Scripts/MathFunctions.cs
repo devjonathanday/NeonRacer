@@ -9,4 +9,8 @@ public static class MathFunctions
     {
         return ((b.y - b.x) * ((currentValue - a.x) / (a.y - a.x))) + b.x;
     }
+    public static float GetProportionalLerp(float minA, float maxA, float minB, float maxB, float currentValue)
+    {
+        return ((maxB - minB) * ((currentValue - minA) / (maxA - minA))) + minB;
+    }
 }
